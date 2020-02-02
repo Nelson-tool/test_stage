@@ -1,0 +1,11 @@
+mysql -u root -p JULAYA < mysqlfile.sql
+mysql -u root -p 
+sudo systemctl enable mysqld.service 
+sudo service mysql start 
+
+link
+https://www.lifewire.com/one-to-many-relationships-1019756
+https://www.lifewire.com/foreign-key-definition-1019255
+https://stackoverflow.com/questions/7296846/how-to-implement-one-to-one-one-to-many-and-many-to-many-relationships-while-de
+https://codeforgeek.com/token-based-authentication-using-nodejs-rethinkdb/  
+https://www.js-tutorials.com/nodejs-tutorial/node-js-user-authentication-using-mysql-express-js/
